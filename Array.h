@@ -1,6 +1,7 @@
 #pragma once
 #include<iostream>
 #include<exception>
+#include<string>
 
 class NoSix : public std::exception
 {
